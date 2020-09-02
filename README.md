@@ -1,3 +1,5 @@
+  Um breve estudo de arrays utilizando angular , através de uma lista de tarefas one é possivel adicionar e remover tarefas 
+
 # ListaDeTarefas
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.

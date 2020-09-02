@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "lista-de-tarefas"
+    }
+  },
+  "defaultProject": "lista-de-tarefas",
+  "cli": {
+    "analytics": "f6470cda-b153-4fe6-8a7f-4839bcaa6de5"
+  }
 }
